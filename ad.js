@@ -52,7 +52,7 @@ function FindProxyForURL(url, host){
 "da.hunantv.com",
 "miaozhen.com",
 //<qq>
-"lives.l.qq.com",
+//"lives.l.qq.com",
 "vqq.admaster.com.cn",
 //<tudou>
 "ad.api.3g.tudou.com",
