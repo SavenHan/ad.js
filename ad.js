@@ -6463,7 +6463,8 @@ var domains = {
      "yomanga.co":1,
      "9gag.com":1,
      "mangahere.com":1,
-     "mangahere.co":1
+     "mangahere.co":1,
+     "pinterest.com":1
      
 };
 
