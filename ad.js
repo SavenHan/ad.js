@@ -3864,6 +3864,8 @@ function FindProxyForURL(url, host){
 var proxy = "PROXY server01.pac.itzmx.com:25;";
 
 var domains = {
+     
+  "pinterest.com": 1,
   "download.kolor.com": 1,
   "messenger.com": 1,
   "tumblr.com": 1,
@@ -4783,6 +4785,7 @@ var domains = {
   "gunsamerica.com": 1, 
   "guomin.us": 1, 
   "gutteruncensored.com": 1, 
+  "gvt1.com": 1,
   "gyalwarinpoche.com": 1, 
   "gzm.tv": 1, 
   "gzone-anime.info": 1, 
@@ -6457,14 +6460,7 @@ var domains = {
   "zuo.la": 1, 
   "zuola.com": 1, 
   "zvereff.com": 1, 
-  "zyzc9.com": 1,
-     "api.mangarockhd.com":1,
-     "mangarockhd.com":1,
-     "yomanga.co":1,
-     "9gag.com":1,
-     "mangahere.com":1,
-     "mangahere.co":1,
-     "pinterest.com":1
+  "zyzc9.com": 1
      
 };
 
