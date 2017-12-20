@@ -2309,7 +2309,7 @@ function FindProxyForURL(url, host){
 "swa.gtimg.com",
 "news.l.qq.com",
 "mi.gdt.qq.com",
-"e.qq.com",
+//"e.qq.com",
 "cm.e.qq.com",
 "tcss.qq.com",
 "tajs.qq.com",
