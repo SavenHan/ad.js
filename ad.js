@@ -773,7 +773,6 @@ function FindProxyForURL(url, host){
 "ir.mail.163.com",
 "irpmt.mail.163.com",
 "rec.g.163.com",
-"g.163.com",
 "g1.163.com",
 "analytics.ws.126.net",
 "android.push.126.net",
