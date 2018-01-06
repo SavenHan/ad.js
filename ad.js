@@ -638,6 +638,7 @@ function FindProxyForURL(url, host){
 "i.adfurikun.jp",
 "ipua.adfurikun.jp",
 "spap.adingo.jp",
+"cl.giit.us",
 "spap.adingo.jp.eimg.jp",
 "adfuri.socdm.com",
 "cast-bid27-j.adtdp.com",
